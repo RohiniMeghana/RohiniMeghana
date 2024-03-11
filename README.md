@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohiniMeghana
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning PowerBI,Tableau
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me through my mail meghanabaggam@gmail.com
 - 😄 Pronouns: She/Her
   Hello People!🤓 I'm Data Science Enthusiastic|Eager to apply skills on real-time scenarios🚀 💥Technology is a tool. By itself, it has no life, no purpose. It depends on the purpose, on the hearts and minds of the people who use it💥
